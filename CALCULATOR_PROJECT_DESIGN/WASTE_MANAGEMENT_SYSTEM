@@ -1,0 +1,7 @@
+#WASTE MANAGEMNET CONTROL SYSTEM
+Producer = []
+while True:
+    producer = input("ENTER YOUR NAME: ")
+    Producer.append() = input("ENTER YOUR LOCATION: ")
+    Producer.append() = input("ENTER TYPE OF WASTE: ")
+print(producer)

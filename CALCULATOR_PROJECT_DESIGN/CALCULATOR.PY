@@ -25,8 +25,8 @@ def divNumbers(Num1, Num2):
 
 #USER INPUTS
 print("WELCOME TO CALCULATOR PROGRAM")
-Number1 = float ( input("ENTER FIRST NUMBER: "))
-Number2 = float ( input("ENTER SECOND NUMBER: "))
+Number1 = int ( input("ENTER FIRST NUMBER: "))
+Number2 = int ( input("ENTER SECOND NUMBER: "))
 Operation = input ("SELECT WHICH OPERATION YOU WANT TO PERFOM \" +, -, x, / \": ")
 
 #DECISION CONTROLS AND RELATIONAL CONTROLS
